@@ -26,7 +26,7 @@
   "gridUnits": "m",
   "compatibility": {
     "minimum": 10,
-    "maximum": 10,
+    "maximum": 11,
     "verified": 10.291
   },
   "url": "https://github.com/wildj79/foundryvtt-mwii",
